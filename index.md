@@ -4,10 +4,10 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./modprobe_path.html).
+[Link to modprobe path](./modprobe_path.html).
 
 
-[Link to another page](./linux_kernel_emulation.html).
+[Link to linux kernel emulation](./linux_kernel_emulation.html).
 
 
 There should be whitespace between paragraphs.
