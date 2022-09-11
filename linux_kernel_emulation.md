@@ -22,6 +22,20 @@ $cd emulation
 $tar xvf buildroot-XXXX.XX.X.tar.gz
 
 
+# Customizing linux kernel
+Many of the configurations depend on your kernel version but there a some core configurations that we will make to the environment.
+Some general tips before we dive into configurations:
+setup your environment:
+
+export ARCH=arm
+export CROSS_COMPILE=arm-linux-gnueabi
+
+
+# Customizing Buildroot
+Buildroot does a fantastic job of building a custom kernel and filesystem. However, there are a few changes that we will make in order to setup for kernel hacking to make our lives easier.
+
+1. Setup communication to and from your host
+    a. Using ssh we need to configure a few settings
 
 
 
