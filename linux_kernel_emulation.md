@@ -4,7 +4,7 @@ layout: default
 
 ## Linux Kernel Emulation with Buildroot and QEMU 
 
-This page steps through the process in setting up an emulateed environment for kernel hacking using Buildroot and QEMU.
+This page steps through the process in setting up an emulated environment for kernel hacking using Buildroot and QEMU.
 
 
 # Dependencies  
