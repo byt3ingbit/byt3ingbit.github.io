@@ -12,6 +12,9 @@ Welcome to my page,  This is a normal paragraph following a header. GitHub is a 
 
 [Linux kernel emulation](./linux_kernel_emulation.html).
 
+[Tracker teardown](./tracker_teardown.html).
+
+
 ## Header 2
 
 > This is a blockquote following a header.
