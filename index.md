@@ -4,16 +4,18 @@ layout: default
 
 # Introduction
 
-Welcome to my page,  This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Welcome to my page,  this ia a collection of projects that I find interesting and potentially useful in life. Feel free to explore.
 
-
+## Index of Pages
 [Abusing modprobe path](./modprobe_path.html).
-
 
 [Linux kernel emulation](./linux_kernel_emulation.html).
 
 [Tracker teardown](./tracker_teardown.html).
 
+[Wealth Managment] (./wealth_management.html).
+
+[Recipes] (./recipes.html)
 
 ## Header 2
 
