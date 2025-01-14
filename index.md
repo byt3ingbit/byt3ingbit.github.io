@@ -15,7 +15,7 @@ Welcome to my page,  this ia a collection of projects that I find interesting an
 
 [Wealth Managment] (./wealth_management.html).
 
-[Recipes] (./recipes.html)
+[Recipes] (./recipes.html).
 
 ## Header 2
 
