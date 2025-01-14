@@ -4,7 +4,7 @@ layout: default
 
 # Introduction
 
-Welcome to my page,  this ia a collection of projects that I find interesting and potentially useful in life. Feel free to explore.
+Welcome to my page,  this is a collection of projects that I find interesting and potentially useful in life. Feel free to explore.
 
 ## Index of Pages
 [Abusing modprobe path](./modprobe_path.html).
