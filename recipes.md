@@ -4,6 +4,9 @@ layout: default
 
 ##  Spicy Southern Style Shrimp with Lemon Basil Orzo.
 
+
+[aadas](./recipes/southern.html)
+
 Prep Time 10 minutes minutes
 Cook Time 15 minutes minutes
 Total Time 25 minutes minutes
