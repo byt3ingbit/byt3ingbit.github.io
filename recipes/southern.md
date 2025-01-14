@@ -39,7 +39,6 @@ Instructions
     5. Spoon the orzo onto plates, then spoon the shrimp and sauce over the orzo. Top with fresh basil.
 
 
-
-[back](./)
+[back](../recipes.html)
 
 
