@@ -4,9 +4,9 @@ layout: default
 
 ##  Collection of favorite recipes.
 
-<img src="./images/Ultimate-Creamy-Baked-Mac-and-Cheese-baking-dish-680x959.webp" alt="drawing" width="150"/>
 
-[Creamy Homemade Baked Mac and Cheese](./recipes/macncheese.html)
+
+<img src="./images/Ultimate-Creamy-Baked-Mac-and-Cheese-baking-dish-680x959.webp" alt="drawing" width="100"/> [Creamy Homemade Baked Mac and Cheese](./recipes/macncheese.html)
 
 [Spicy Southern Style Shrimp with Lemon Basil Orzo](./recipes/southern.html)
 
