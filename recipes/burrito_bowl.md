@@ -33,6 +33,6 @@ layout: default
 
 4. Serve immediately, garnished with cilantro, if desired.
 
-[back](./)
+[back](../recipes.html)
 
 
