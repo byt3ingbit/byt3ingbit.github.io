@@ -10,8 +10,7 @@ layout: default
 - Total: 20 minutes minutes
 
 ### Ingredients
-
-    ▢  1 pound boneless, skinless chicken breasts, cut into 1-inch chunks
+    ▢ 1 pound boneless, skinless chicken breasts, cut into 1-inch chunks
     ▢ 1 cup low sodium chicken broth
     ▢ 1 (1.25-ounce) package taco seasoning
     ▢ 1 (15-ounce) can corn kernels, drained

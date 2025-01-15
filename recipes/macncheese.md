@@ -10,7 +10,6 @@ layout: default
 - Calories: 665
 
 ### Ingredients
-
     ▢ 1 lb. dried elbow pasta
     ▢ 1/2 cup unsalted butter
     ▢ 1/2 cup all purpose flour
@@ -39,7 +38,7 @@ While water is coming up to a boil, shred cheeses and toss together to mix, then
 6.  In a large mixing bowl, combine drained pasta with cheese sauce, stirring to combine fully.  Pour half of the pasta mixture into the prepared baking dish.  Top with 1 1/2 cups of shredded cheeses, then top that with the remaining pasta mixture.
 
 7.  Sprinkle the top with the last 1 1/2 cups of cheese and bake for 15 minutes, until cheesy is bubbly and lightly golden brown.
-     
+  
 [back](../recipes.html)
 
 

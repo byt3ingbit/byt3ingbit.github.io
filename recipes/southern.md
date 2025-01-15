@@ -12,7 +12,6 @@ layout: default
 
 
 ### Ingredients
-
     ▢ 1 pound orzo pasta
     ▢ 5 tablespoons extra virgin olive oil
     ▢ juice from 1/2 a lemon
