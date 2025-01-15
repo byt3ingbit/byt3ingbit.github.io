@@ -15,7 +15,7 @@ Ingredients
     ▢ 1/2 cup unsalted butter
     ▢ 1/2 cup all purpose flour
     ▢ 1 1/2 cups whole milk
-    ▢ 2 1/2 cups half and half **see chef tips #1 below**
+    ▢ 2 1/2 cups half and half
     ▢ 4 cups shredded medium cheddar cheese divided (measured after shredding)
     ▢ 2 cups shredded Gruyere cheese divided (measured after shredding)
     ▢ 1/2 Tbsp. salt
@@ -38,7 +38,7 @@ While water is coming up to a boil, shred cheeses and toss together to mix, then
    
 4.  In a large mixing bowl, combine drained pasta with cheese sauce, stirring to combine fully.  Pour half of the pasta mixture into the prepared baking dish.  Top with 1 1/2 cups of shredded cheeses, then top that with the remaining pasta mixture.
 
-7.  Sprinkle the top with the last 1 1/2 cups of cheese and bake for 15 minutes, until cheesy is bubbly and lightly golden brown.  
+5.  Sprinkle the top with the last 1 1/2 cups of cheese and bake for 15 minutes, until cheesy is bubbly and lightly golden brown.  
 [back](../recipes.html)
 
 
